@@ -36,3 +36,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# crawling 폴더 안의 yaml 파일 무시
+crawling/*.yaml
+crawling/db_config.yaml
